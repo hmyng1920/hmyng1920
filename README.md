@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hmyng1920
+- 🌱 Python Beginner
+- 📫 contact: hoangmy122902@gmail.com
